@@ -2,7 +2,7 @@
 
 - 🌴 Based in Nairobi, Kenya
 
-- 📖 Currently working as Automation Engeneer/DevOps
+- 📖 Currently  mixing between Automation Engineer/Data/DevOps/DevSecOps
 
 - 💬  Lets have a talk ........
 - 
